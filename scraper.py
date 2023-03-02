@@ -2,7 +2,7 @@ import googlemaps
 from datetime import datetime
 
 # Replace 'YOUR_API_KEY' with your actual Google Maps API key
-gmaps = googlemaps.Client(key='AIzaSyB2XoyuzNvz2YeE3FIo4O3PUbO3v8XAEWI')
+gmaps = googlemaps.Client(key='')
 
 # Set the city you want to scrape
 city = 'New York'
